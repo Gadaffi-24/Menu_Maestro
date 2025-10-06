@@ -1,8 +1,8 @@
-# MAST5112POE PART2
+# MAST5112POE PART2 2025
 ST Nr: ST10495452
 Name: Mokete Mantjane
 
-Git link: https://github.com/Gadaffi-24/MAST5112POE-PART2.git
+Git link: https://github.com/Gadaffi-24/Menu_Maestro.git
 Youtube link:
 
 🍽️ Menu Maestro: Chef's Menu Management App
