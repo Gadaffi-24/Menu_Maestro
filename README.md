@@ -3,7 +3,7 @@ ST Nr: ST10495452
 Name: Mokete Mantjane
 
 Git link: https://github.com/Gadaffi-24/Menu_Maestro.git
-Youtube link:
+Youtube link:  https://youtu.be/bee-wU-2XaY
 
 🍽️ Menu Maestro: Chef's Menu Management App
 Project Overview
@@ -60,7 +60,15 @@ Return Data: Upon hitting 'Apply', the selected filters are passed back to the H
 
 Filtering Logic: The HomeScreen uses the received activeFilters state to create a filteredMenuItems list. If activeFilters is empty, all menu items are shown; otherwise, the list is filtered to include only items matching the selected courses. The FlatList then renders this filtered list.
 
-# ScreenShots:
+# ScreenShots (Tested on a Tablet):
+![IMG-20251006-WA0008](https://github.com/user-attachments/assets/81278e21-7574-4859-8378-98df825e7c1d)
+![IMG-20251006-WA0007](https://github.![IMG-20251006-WA0006](https://github.com/user-attachments/assets/bc48f699-f1c2-4d8c-9812-445c69152056)
+![IMG-20251006-WA0005](https://github.com/user-attachments/assets/3fc6f86e-51fb-4f59-8370-6cc685d0deb8)
+![IMG-20251006-WA0004](https://github.com/user-attachments/assets/65fa9080-4ada-46a5-aacd-92dc85050da5)
+![IMG-20251006-WA0003](https://github.com/user-attachments/assets/07ac8b65-cdd3-42fc-9e4b-e49b37b1f3cb)
+![IMG-20251006-WA0002](https://github.com/user-attachments/assets/f4674a85-aca0-4d51-a6db-b092d2535d1c)
+![IMG-20251006-WA0001](https://github.com/user-attachments/assets/50ea9ccf-2b5a-4991-a724-c7bba9c7a4b8)
+com/user-attachments/assets/95a2213b-4590-459d-9a36-f6242c4c7656)
 
 
 :copyright: Mokete.inc 
