@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     price: {
         fontSize: 18,
         fontWeight: 'bold',
-        color: '#007bff', // Highlight the price
+        color: '#007bff', // Highlights the price
         marginLeft: 10,
     },
     description: {

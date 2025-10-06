@@ -20,7 +20,7 @@ const AddEditItemScreen: React.FC<Props> = ({ navigation, route }) => {
 
   // --- State Initialization ---
   // Use existing item data or set default values for new items
-  const [id] = useState(itemToEdit?.id || Date.now().toString()); // Use current ID or generate new timestamp ID
+  const [id] = useState(itemToEdit?.id || Date.now().toString()); // Use current IDs
   const [dishName, setDishName] = useState(itemToEdit?.dishName || '');
   const [description, setDescription] = useState(itemToEdit?.description || '');
   // Price is stored as text for input handling, formatted to 2 decimal places if editing
@@ -107,7 +107,7 @@ const AddEditItemScreen: React.FC<Props> = ({ navigation, route }) => {
         placeholder="0.00"
         value={priceText}
         onChangeText={setPriceText}
-        keyboardType="numeric" // Ensure numerical keyboard for price
+        keyboardType="numeric" // Ensures numerical keyboard for price
       />
 
       <Text style={styles.label}>Course Selection</Text>
@@ -124,7 +124,7 @@ const AddEditItemScreen: React.FC<Props> = ({ navigation, route }) => {
       <View style={styles.buttonContainer}>
         <Button title={isEditing ? "Update Item" : "Add Item"} onPress={handleSave} />
 
-        {/* Show the Remove button only when an item is being edited */}
+        {/* Shows the Remove button only when an item is being edited */}
         {isEditing && (
           <View>
             <Button title="Remove Item" onPress={handleRemove} color="red" />

@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 5, // Small gap to separate the two blocks
     backgroundColor: '#fff',
     borderRadius: 8,
-    // Add border/shadow as per your design
+    // Adds a border/shadow
     borderWidth: 1,
     borderColor: '#ccc',
     alignItems: 'center',

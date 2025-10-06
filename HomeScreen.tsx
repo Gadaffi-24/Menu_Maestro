@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
   list: { paddingBottom: 60 },
 
   buttonPrimary: {
-    backgroundColor: '#007bff', // Using a standard blue
+    backgroundColor: '#007bff',
     paddingVertical: 12,
     paddingHorizontal: 25,
     borderRadius: 25, // Large radius for a rounded/pill shape
