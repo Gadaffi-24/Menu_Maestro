@@ -60,6 +60,14 @@ Return Data: Upon hitting 'Apply', the selected filters are passed back to the H
 
 Filtering Logic: The HomeScreen uses the received activeFilters state to create a filteredMenuItems list. If activeFilters is empty, all menu items are shown; otherwise, the list is filtered to include only items matching the selected courses. The FlatList then renders this filtered list.
 
+# ChangeLog
+  1. Changed homescreen slogen colour to blue to match the astetics of the app,also increased size.
+  2. Updeted the json files to fit the app. 
+  3. Added "borderRadius: 25," to the addedititems screen for more rounded effects.
+  4. Changed "borderWidth: 5" for picker in addedititems screem for more readablility.
+  5. Adding a items takes you to a new screen.
+  6. Average price in the home screen was made bigger just a bit.
+
 # ScreenShots (Tested on a Tablet):
 ![IMG-20251006-WA0008](https://github.com/user-attachments/assets/81278e21-7574-4859-8378-98df825e7c1d)
 ![IMG-20251006-WA0007](https://github.![IMG-20251006-WA0006](https://github.com/user-attachments/assets/bc48f699-f1c2-4d8c-9812-445c69152056)

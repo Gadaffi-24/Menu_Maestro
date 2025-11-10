@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
   slogan: {
     textAlign: 'center',
     fontSize: 14,
-    color: '#888',
+    color: '#007bff',
     fontStyle: 'italic',
     marginBottom: 20,
     marginTop: 5,

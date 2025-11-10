@@ -140,11 +140,12 @@ const styles = StyleSheet.create({
   label: { fontSize: 16, marginTop: 10, marginBottom: 5, fontWeight: 'bold' },
   input: { borderWidth: 1, borderColor: '#ccc', padding: 10, borderRadius: 8, marginBottom: 10 },
   textArea: { height: 80 },
-  picker: { borderWidth: 1, borderColor: '#ccc', marginBottom: 20 },
+  picker: { borderWidth: 5, borderColor: '#ccc', marginBottom: 20 },
   buttonContainer: {
     marginTop: 20,
     flexDirection: 'column',
     gap: 10,
+    borderRadius: 25,
   },
 });
 
